@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Prince Pal 👋
 
-<!--
-**PrincePal-25/PrincePal-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Developer | 🎓 Lifelong Learner | 💻 Open Source Enthusiast
 
-Here are some ideas to get you started:
+## 🔑 About Me
+- 🌟 Building cool projects & learning daily  
+- 🎯 Focused on web, apps, and open-source  
+- 🏅 Collecting free certificates & showcasing my journey  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- [freeCodeCamp – Responsive Web Design](https://www.freecodecamp.org/certification/PrincePal-25/responsive-web-design)  
+- [SoloLearn – JavaScript Basics](https://www.sololearn.com/certificates/your-link)  
+
+[![freeCodeCamp Certificate](https://img.shields.io/badge/freeCodeCamp-Certified-brightgreen)](https://www.freecodecamp.org/certification/PrincePal-25/responsive-web-design)
+
+## 🛠 Tech Stack
+- HTML • CSS • JavaScript • Python • Java
+
+## 🌐 Connect
+- GitHub: [@PrincePal-25](https://github.com/PrincePal-25)
+- Portfolio: [https://PrincePal-25.github.io](https://PrincePal-25.github.io)
+
